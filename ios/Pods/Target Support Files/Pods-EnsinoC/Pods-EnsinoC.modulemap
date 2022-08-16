@@ -1,0 +1,6 @@
+module Pods_EnsinoC {
+  umbrella header "Pods-EnsinoC-umbrella.h"
+
+  export *
+  module * { export * }
+}

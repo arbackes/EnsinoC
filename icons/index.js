@@ -1,0 +1,16 @@
+export const IconTopic1 = require('./icone_01.png');
+export const IconTopic2 = require('./icone_02.png');
+export const IconTopic3 = require('./icone_03.png');
+export const IconTopic4 = require('./icone_04.png');
+export const IconTopic5 = require('./icone_05.png');
+export const IconTopic6 = require('./icone_06.png');
+export const IconTopic7 = require('./icone_07.png');
+export const IconTopic8 = require('./icone_08.png');
+export const IconTopic9 = require('./icone_09.png');
+export const IconTopic10 = require('./icone_10.png');
+export const IconTopic11 = require('./icone_11.png');
+export const IconTopic12 = require('./icone_12.png');
+export const IconTopic13 = require('./icone_13.png');
+export const IconTopic14 = require('./icone_14.png');
+export const IconTopic15 = require('./icone_15.png');
+export const IconTopic16 = require('./icone_16.png');
